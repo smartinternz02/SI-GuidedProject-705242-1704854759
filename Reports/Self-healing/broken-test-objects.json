@@ -1,0 +1,54 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Amazon.com. Spend less. Smile more/a_Your Account",
+      "brokenLocator": "//div[@id\u003d\u0027navbar-backup-backup\u0027]/div/div[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Your Account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Amazon.com. Spend less. Smile more/a_Your Account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Amazon Sign-In/inputcontinue",
+      "brokenLocator": "//input[@id\u003d\u0027continue\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Amazon Sign-In/inputcontinue_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/VALIDATE SEARCH FIELD/Page_Amazon.com. Spend less. Smile more/a",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstanceB2izZALGArF757JHojOQ-w\u0027]/div/div/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//li/div/div/div/div/a",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/VALIDATE SEARCH FIELD/Page_Amazon.com. Spend less. Smile more/a_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/VALIDATE SEARCH FIELD/Page_Amazon.com Books/img",
+      "brokenLocator": "//div[@id\u003d\u0027contentGrid_2046\u0027]/div/div/div/div/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/img",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/VALIDATE SEARCH FIELD/Page_Amazon.com Books/img_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/DDT_Amazon_Login_001_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account",
+      "brokenLocator": "//div[@id\u003d\u0027navbar-backup-backup\u0027]/div/div[3]/a",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//a[contains(text(),\u0027Your Account\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/DDT_Amazon_Login_001_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account_link.png"
+    }
+  ]
+}
