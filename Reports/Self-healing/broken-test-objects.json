@@ -49,6 +49,106 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/DDT_Amazon_Login_001_OR/Page_Amazon.com. Spend less. Smile more/a_Your Account_link.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Amazon_login_OR/Page_Amazon Sign-In/Email",
+      "brokenLocator": "//input[@id\u003d\u0027ap_email\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div/div/div/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Amazon_login_OR/Page_Amazon Sign-In/Email_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Additem_To_cart_OR/Page_Amazon.com  gaming headsets/image_headset",
+      "brokenLocator": "//*[@id\u003d\"search\"]/div[1]/div[1]/div/span[1]/div[1]/div[2]/div/div/span/div/div/div/div[1]/div/div[2]/div/span/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027Turtle Beach Ear Force Recon 50 Gaming Headset for PlayStation 4, Xbox One, \u0026 PC/Mac\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Additem_To_cart_OR/Page_Amazon.com  gaming headsets/image_headset_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Additem_To_cart_OR/Page_Amazon.com Shopping Cart/txt_link_delete",
+      "brokenLocator": "//*[@id\u003d\"sc-active-eb492738-65b4-4450-98dc-b44e0e503875\"]/div[4]/div/div[2]/div[1]/span[2]/span/input",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span[2]/span/input",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Additem_To_cart_OR/Page_Amazon.com Shopping Cart/txt_link_delete_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/img",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstance9qgZx0cf4Zib2CJgKBT1Kg\u0027]/div[2]/div/a/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027Real Essentials 5 Pack: Men’s Dry-Fit Moisture Wicking Active Athletic Performance Crew T-Shirt\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/img_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/img_1",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstanceuRn3ettcrRKjxQhR2JUEww\u0027]/div[2]/div/a/div/div/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027COMFIER neck, back massagers and more\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/img_1_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/img__fluid-fat-image-link-v2_style_fluidLan_075a06",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstanceKsJY5iS-MGSpZqdLSq_xGw\u0027]/a/div/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u0027Deals in PCs\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/img__fluid-fat-image-link-v2_style_fluidLan_075a06_img.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/div__fluid-fat-image-link-v2_style_fluidFat_38a470",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstanceKsJY5iS-MGSpZqdLSq_xGw\u0027]/a/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div[3]/div/a/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/div__fluid-fat-image-link-v2_style_fluidFat_38a470_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/div_You are on amazon.com. You can also sho_31e5b0",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstance56HxGwLcHBRinXyycgRvvQ\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027desktop-banner-stripe\u0027]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/div_You are on amazon.com. You can also sho_31e5b0_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/div_New year, new suppliesShop office produ_211710",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstanceDFDAekv6vEsj9YyMDQQ9gw\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[@id\u003d\u0027desktop-grid-4\u0027]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/div_New year, new suppliesShop office produ_211710_idRelative.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/HOMEPAGE_OR_TC__002/Product details/Page_Amazon.com. Spend less. Smile more/img",
+      "brokenLocator": "//div[@id\u003d\u0027CardInstanceSNRabGaxMEG40ny_ZJ29cw\u0027]/div[2]/div/a[2]/div/img",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//img[@alt\u003d\u00275 Pack Men’s Active Quick Dry Crew Neck T Shirts | Athletic Running Gym Workout Short Sleeve Tee Tops Bulk\u0027]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/HOMEPAGE_OR_TC__002/Product details/Page_Amazon.com. Spend less. Smile more/img_img.png"
     }
   ]
 }

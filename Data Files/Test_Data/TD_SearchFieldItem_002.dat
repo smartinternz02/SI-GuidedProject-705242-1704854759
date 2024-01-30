@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TD_SearchFieldItem_002</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>46bc6b44-8c79-41b9-9b8f-cf672cf3de24</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Arts+%26+Crafts Gift+Wrapping+Supplies</data>
+   <data>Automotive Tires+%26+Wheels</data>
+   <data>Baby Diapering</data>
+   <data>Beauty+%26+Personal+Care Makeup</data>
+   <data>Books Da+Vinci+Code</data>
+   <data>Video+Games Virtual+Reality</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>category</name>
+      <size>6</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>items</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

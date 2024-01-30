@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Homepage_TS,Firefox 122.0,homepage related test cases and working in different browsers,,30-01-2024 16:13:25,30-01-2024 16:14:35,1m - 9.959s,PASSED
+,,,,,,,
+Test Cases/HOMEPAGE_TC/TC__002_Amazon_Username,Firefox 122.0,Verify whether the username is displayed or not,,30-01-2024 16:13:25,30-01-2024 16:13:59,33.808s,PASSED
+"callTestCase(findTestCase(""DataDrivenTesting/DDT_Amazon_login_001""), [""USERNAME"":"""", ""PASSWORD"":""""], STOP_ON_FAILURE)",Firefox 122.0,,,30-01-2024 16:13:26,30-01-2024 16:13:51,25.314s,PASSED
+"navigateToUrl(""https://www.amazon.com/?ref_=nav_ya_signin"")",Firefox 122.0,,,30-01-2024 16:13:51,30-01-2024 16:13:53,1.559s,PASSED
+"verifyElementVisible(findTestObject(""Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/span_Hello, Gumma""))",Firefox 122.0,,,30-01-2024 16:13:53,30-01-2024 16:13:55,2.071s,PASSED
+"verifyElementText(findTestObject(""Object Repository/HOMEPAGE_OR_TC__002/Page_Amazon.com. Spend less. Smile more/span_Hello, Gumma""), ""Hello, Gumma"")",Firefox 122.0,,,30-01-2024 16:13:55,30-01-2024 16:13:55,0.363s,PASSED
+closeBrowser(),Firefox 122.0,,,30-01-2024 16:13:55,30-01-2024 16:13:59,4.148s,PASSED
+,,,,,,,
+Test Cases/HOMEPAGE_TC/TC__001_HomePage,Firefox 122.0,Verify that home page is displayed after the login or not,,30-01-2024 16:13:59,30-01-2024 16:14:35,35.913s,PASSED
+"callTestCase(findTestCase(""DataDrivenTesting/DDT_Amazon_login_001""), [""USERNAME"":"""", ""PASSWORD"":""""], STOP_ON_FAILURE)",Firefox 122.0,,,30-01-2024 16:13:59,30-01-2024 16:14:27,27.467s,PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Amazon_login_OR/Page_Amazon Sign-In/Page_Amazon.com. Spend less. Smile more/a_us""), 0)",Firefox 122.0,,,30-01-2024 16:14:27,30-01-2024 16:14:30,2.729s,PASSED
+closeBrowser(),Firefox 122.0,,,30-01-2024 16:14:30,30-01-2024 16:14:35,5.508s,PASSED

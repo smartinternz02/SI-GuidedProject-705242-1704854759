@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>verify that when user clicks on a  product , user should redirected to product specification</description>
+   <name>TC__005_Redirected_page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5247cb5-f85f-406c-8e30-5d2a4814293b</testCaseGuid>
+</TestCaseEntity>

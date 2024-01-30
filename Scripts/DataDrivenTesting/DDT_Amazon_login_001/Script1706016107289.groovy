@@ -31,5 +31,3 @@ WebUI.setEncryptedText(findTestObject('Object Repository/DDT_Amazon_Login_001_OR
 
 WebUI.click(findTestObject('Object Repository/DDT_Amazon_Login_001_OR/Page_Amazon Sign-In/inputsignInSubmit'))
 
-WebUI.closeBrowser()
-
