@@ -15,7 +15,7 @@
       <guid>81588cee-0750-4d04-86a7-f610292dd59d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AmazonLogin_Page/TC_SearchField_002</testCaseId>
+      <testCaseId>Test Cases/AmazonLogin_Page/TC_002_SearchField</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>127f1679-1af3-4b2e-aaf9-78472dc62ff2</id>

@@ -15,7 +15,7 @@
       <guid>cfca9aa8-2d75-4d01-8b67-431db04ce843</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AmazonLogin_Page/TC_Amazon_login_001</testCaseId>
+      <testCaseId>Test Cases/AmazonLogin_Page/TC_001_Amazon_login</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>acb399d4-ed17-48d9-89d8-3c32d673c417</id>
@@ -43,7 +43,7 @@
       <guid>15715a06-66a8-4d78-b0cc-2e8ca8c44d0c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AmazonLogin_Page/TC_SearchField_002</testCaseId>
+      <testCaseId>Test Cases/AmazonLogin_Page/TC_002_SearchField</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>91fa60e6-b119-48fa-a348-a399af2daceb</id>

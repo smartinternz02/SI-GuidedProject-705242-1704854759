@@ -15,14 +15,14 @@
       <guid>f2f15488-ef04-4595-be87-280a97039f97</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HOMEPAGE_TC/TC__002_Amazon_Username</testCaseId>
+      <testCaseId>Test Cases/HOMEPAGE_TC/TC__009_Amazon_Username</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
       <guid>bcf3f53c-cfd6-4687-a0c8-01a3d9cf362c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/HOMEPAGE_TC/TC__001_HomePage</testCaseId>
+      <testCaseId>Test Cases/HOMEPAGE_TC/TC__013_HomePage</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
