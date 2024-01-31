@@ -4,8 +4,8 @@
    <name>Homepage_TS</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <mailRecipient>tirumala1643@gmail.com;</mailRecipient>
+   <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>

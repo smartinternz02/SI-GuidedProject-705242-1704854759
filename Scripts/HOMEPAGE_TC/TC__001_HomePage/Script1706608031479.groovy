@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('DataDrivenTesting/DDT_Amazon_login_001'), [('USERNAME') : '', ('PASSWORD') : ''], FailureHandling.STOP_ON_FAILURE)
+WebUI.callTestCase(findTestCase('AmazonLogin_Page/TC_Amazon_login_001'), [('USERNAME') : '', ('PASSWORD') : ''], FailureHandling.STOP_ON_FAILURE)
 
-//WebUI.callTestCase(findTestCase('DataDrivenTesting/DDT_Amazon_login_001'), [('USERNAME') : '', ('PASSWORD') : ''], FailureHandling.STOP_ON_FAILURE)
+//WebUI.callTestCase(findTestCase('AmazonLogin_Page/TC_Amazon_login_001'), [('USERNAME') : '', ('PASSWORD') : ''], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Amazon_login_OR/Page_Amazon Sign-In/Page_Amazon.com. Spend less. Smile more/a_us'), 
     0)

@@ -5,38 +5,38 @@
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>3</numberOfRerun>
+   <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>cca5d9ab-531c-4243-a9c0-94f49090a794</testSuiteGuid>
    <testCaseLink>
-      <guid>d9533062-5d39-4bfe-982d-5e1326dd3205</guid>
+      <guid>81588cee-0750-4d04-86a7-f610292dd59d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/DataDrivenTesting/Validate_searchfield_TC_002</testCaseId>
+      <testCaseId>Test Cases/AmazonLogin_Page/TC_SearchField_002</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>f7f9dc4e-9d8c-4a20-9a9f-34310c942abe</id>
+         <id>127f1679-1af3-4b2e-aaf9-78472dc62ff2</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/Test_Data/TD_SearchFieldItem_002</testDataId>
+         <testDataId>Data Files/Test_Data/SearchField_TD_002</testDataId>
       </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId>f7f9dc4e-9d8c-4a20-9a9f-34310c942abe</testDataLinkId>
+         <testDataLinkId>127f1679-1af3-4b2e-aaf9-78472dc62ff2</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>category</value>
-         <variableId>1a03cece-b714-4181-ae85-c02e39ac0898</variableId>
+         <variableId>28279c7f-79ef-46f4-b7cc-4f21ca7f920c</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>f7f9dc4e-9d8c-4a20-9a9f-34310c942abe</testDataLinkId>
+         <testDataLinkId>127f1679-1af3-4b2e-aaf9-78472dc62ff2</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>items</value>
-         <variableId>c4de85af-826c-4d03-b5b5-36ad69cd985d</variableId>
+         <value>item</value>
+         <variableId>45178b4a-c76e-44fd-a179-f852a45da17c</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

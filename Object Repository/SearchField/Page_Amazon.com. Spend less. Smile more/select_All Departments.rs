@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>3bdc1e48-6336-44d9-bc25-c2b49d659e88</webElementGuid>
+      <webElementGuid>7bca45db-d80a-4b97-878b-b18a5d98641a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>searchDropdownDescription</value>
-      <webElementGuid>9bd67800-715d-4b0c-86b4-0c4f7cde6343</webElementGuid>
+      <webElementGuid>271aa83c-dd1d-4edf-b3a5-5f94d3f12362</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-search-dropdown searchSelect nav-progressive-attrubute nav-progressive-search-dropdown</value>
-      <webElementGuid>4d17586b-ca79-434b-9fe3-4f7c259212a3</webElementGuid>
+      <webElementGuid>fd77c061-c961-46fa-bf67-3a38fc0eafb9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-nav-digest</name>
       <type>Main</type>
       <value>k+fyIAyB82R9jVEmroQ0OWwSW3A=</value>
-      <webElementGuid>2d2c4376-9ab9-4a0e-b6df-a9f66d81bd3e</webElementGuid>
+      <webElementGuid>c75f86cd-7f4a-4ca4-9319-40f1fdd15d22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-nav-selected</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>bff84193-96d6-4afb-88de-adca44cfc1e7</webElementGuid>
+      <webElementGuid>f440ece9-1a45-4f7a-a3bc-ffcd85622ced</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>searchDropdownBox</value>
-      <webElementGuid>9360be54-7db8-434b-b841-aa24c230f919</webElementGuid>
+      <webElementGuid>25b18560-73e6-4ad5-9fef-f167209685ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>url</value>
-      <webElementGuid>6d2afdbf-2d76-4b64-aa62-5adc63621b55</webElementGuid>
+      <webElementGuid>6febfeae-a061-4a0f-ba34-5190fd6fcc11</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>f15f1cb4-4cb8-4426-874f-8419680f5555</webElementGuid>
+      <webElementGuid>f8d849f7-f26f-42eb-adfd-81b975bd80e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Search in</value>
-      <webElementGuid>01c185f7-cc6e-4401-9c25-72b33ab46fc2</webElementGuid>
+      <webElementGuid>c958f13b-1427-4154-978c-d4bd8165d411</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -123,7 +123,7 @@
         Video Games
         Women's Fashion
     </value>
-      <webElementGuid>5b6e6e2f-67ae-4b45-9978-c118e19aa09d</webElementGuid>
+      <webElementGuid>27856ce5-4eca-4cee-ad78-fd3ba8c65aca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -131,7 +131,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;searchDropdownBox&quot;)</value>
-      <webElementGuid>b0edebf5-80ad-4b86-8462-abf617395252</webElementGuid>
+      <webElementGuid>6ccef4cb-576b-4071-8155-ec5c205a810d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -139,7 +139,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='searchDropdownBox']</value>
-      <webElementGuid>00660caa-00ad-4e16-8bf8-0e21565766da</webElementGuid>
+      <webElementGuid>58cdec37-25ed-4a0f-8bb9-689ce2430302</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -147,7 +147,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='nav-search-dropdown-card']/div/select</value>
-      <webElementGuid>c2bcb9d0-d45f-400d-8349-92fbead89a90</webElementGuid>
+      <webElementGuid>74842469-8325-4203-936c-c70d9265605b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -155,7 +155,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>a37045ea-5672-42e7-afdb-efd1a42dff28</webElementGuid>
+      <webElementGuid>6b892090-0cd4-421d-b5e5-db5434d3d27b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -221,6 +221,6 @@
         Video Games
         Women&quot; , &quot;'&quot; , &quot;s Fashion
     &quot;))]</value>
-      <webElementGuid>83bc1fb2-0094-44fd-becb-297f257a25ce</webElementGuid>
+      <webElementGuid>b48aea97-3c8b-4c0b-b5ee-f0bf84d662b7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
